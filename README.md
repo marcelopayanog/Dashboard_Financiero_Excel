@@ -1,4 +1,4 @@
-# Dashboard de Control de Vnetasen Excel  
+# Dashboard de Control de Ventas en Excel  
 
 Este proyecto consiste en la creación de un dashboard interactivo en Excel usando herramientas avanzadas como **Power Query, Tablas Dinámicas y Power Pivot**.  
 
